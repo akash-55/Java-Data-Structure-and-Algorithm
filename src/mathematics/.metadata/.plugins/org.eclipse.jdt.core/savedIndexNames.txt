@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/akash/Desktop/java/DATA STRUCTURE AND ALGORITHM IN JAVA/DSA/src/mathematics/.metadata/.plugins/org.eclipse.jdt.core
